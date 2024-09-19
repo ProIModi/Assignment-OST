@@ -1,0 +1,6 @@
+1. Define : OSS
+2. Give some free open source software examples
+3. What are the benefits that OSS?
+4. What is an open source contract?
+5. What are the five popular licenses for open source?
+======================================================
