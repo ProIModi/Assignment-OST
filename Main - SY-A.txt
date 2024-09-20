@@ -4,3 +4,8 @@
 4. What is an open source contract?
 5. What are the five popular licenses for open source?
 ======================================================
+6. Explain rise of open source?                                    [5m]
+7. Explain rights and responsibilities of users and developers?    [5m]
+8. Explain types of licences in open source?                       [5m]
+9. Explain open source operating system?                           [5m]
+10.Give defination and principles of open source?                  [5m]
