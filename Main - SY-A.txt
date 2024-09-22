@@ -9,3 +9,4 @@
 8. Explain types of licences in open source?                       [5m]
 9. Explain open source operating system?                           [5m]
 10.Give defination and principles of open source?                  [5m]
+11.write any five applications of open source software?and explain them?
